@@ -21,10 +21,10 @@ from textblob import TextBlob
 
 def twitterHero(data,size):
 
-    consumer_key = "Y5XFRuxBWJ1btZU6xu93IGCGF"
-    consumer_secret = "lbCJ8qP79EKqlzkrsGvegUbE7k3rm2JZDYqX3TbbcPaj6ZVfkh"
-    access_token = "1032328800321777664-uvHGxG2TwP110GSWlLdYOv483fqNNX"
-    access_token_secret = "NiCzXy0cQ3QzeYDpq539lSXQ4jFzQEmYINEgu7N8gjndW"
+    consumer_key = ""
+    consumer_secret = ""
+    access_token = ""
+    access_token_secret = ""
 
     
 
